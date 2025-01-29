@@ -1,6 +1,6 @@
 # App Preview 👋
 
-<img width="234" alt="Screenshot 2025-01-28 at 10 09 11 PM" src="https://github.com/user-attachments/assets/3c1bdc03-9136-4c4b-a85d-b6d2d0726b36" />
+https://github.com/user-attachments/assets/24e8d3d0-1046-45c4-9ad1-486b3c0f43f9
 
 # App Overview 👋
 This is a Dragon Ball Z Quiz built with React Native. The application follows a standard React Native structure, with a well-organized src directory containing screens, components, and app data. It is fully typed with TypeScript, ensuring strong type safety, and the application's state is efficiently managed using React Native’s built-in hooks.
