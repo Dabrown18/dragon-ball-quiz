@@ -1,3 +1,8 @@
+# App Preview 👋
+
+<img width="234" alt="Screenshot 2025-01-28 at 10 09 11 PM" src="https://github.com/user-attachments/assets/3c1bdc03-9136-4c4b-a85d-b6d2d0726b36" />
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
